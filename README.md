@@ -20,3 +20,9 @@ For help getting started with Flutter, view our online
 
 6.ok,现在开启flutter.File-new flutter project
 
+
+#编译dart文件
+1.点击As run旁边的 Edit Configurations
+2.点击 + 号Add dart文件
+3.填好name 跟 Dart entrypoint(dart文件的路径，也就是你保存项目里的路径)
+4.ok,run
